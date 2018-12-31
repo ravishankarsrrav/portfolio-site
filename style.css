@@ -1,0 +1,30 @@
+body {
+	background: #00C978;
+	color: white;
+}
+
+.rav-name {
+	padding-top: 10px;
+	font-size: 64px;
+	font-weight: 300;
+}
+
+
+.rav-about {
+	padding-top: 10px;
+	font-size: 30px;
+	font-weight: 200;
+}
+
+
+.links{
+	padding-top: 20px;
+	font-size: 30px;
+	font-weight: 200;
+}
+
+.link {
+	font-size: 28px;
+	font-weight: 200;
+	color: white ! important;
+}
