@@ -1,42 +1,42 @@
 body {
-	background: #00C978;
+	background: #249DFA;
 	color: white;
 }
 
 .rav-name {
 	padding-top: 10px;
-	font-size: 55px;
-	font-weight: 300;
+	font-size: 56px;
+	font-weight: 400;
 }
 
 .rav-about-nick {
 	padding-top: 10px;
-	font-size: 20px;
-	font-weight: 200;
+	font-size: 21px;
+	font-weight: 300;
 }
 
 .rav-about {
 	padding-top: 10px;
-	font-size: 23px;
-	font-weight: 200;
+	font-size: 24px;
+	font-weight: 300;
 }
 
 
 .links{
 	padding-top: 20px;
-	font-size: 23px;
-	font-weight: 200;
+	font-size: 24px;
+	font-weight: 300;
 }
 
 .about-me-link {
-	font-size: 22px;
-	font-weight: 200;
+	font-size: 23px;
+	font-weight: 300;
 	color: white ! important;
 	text-decoration: underline;
 }
 
 .link {
-	font-size: 21px;
-	font-weight: 200;
+	font-size: 22px;
+	font-weight: 300;
 	color: white ! important;
 }
